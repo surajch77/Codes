@@ -1,3 +1,5 @@
+/* This template uses the fast input output often used in large input output files */
+
 #include <bits/stdc++.h>
  
 using namespace std;
