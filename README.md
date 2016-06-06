@@ -1,4 +1,8 @@
 # Codes
 Template codes for algorithms
 
-The folder contains a list of few algorithmic code templates often used in programming contest. Feel free to add new algorithmic coding templates to the repo.
+This repository contains the often used algorithms in programming contests.
+
+It also contains solutions to the competitive questions of Hackerrank and Hackerearth.
+
+Feel free to add new algorithms to the CPP folder.
