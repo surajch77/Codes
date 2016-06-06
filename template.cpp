@@ -1,3 +1,7 @@
+/*Simple template writing code fast for short contest */ 
+
+
+
 /// #sh
 
 #include<bits/stdc++.h>
