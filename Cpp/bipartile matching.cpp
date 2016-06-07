@@ -1,9 +1,11 @@
+
+/// Geeksforgeeks
 // A C++ program to find maximal Bipartite matching.
+
 #include <iostream>
 #include <string.h>
 using namespace std;
 
-// M is number of applicants and N is number of jobs
 #define M 6
 #define N 6
 
